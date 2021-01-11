@@ -1,0 +1,9 @@
+query,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+TITLE(change management+AND+soft skills)+AND+ABS(change management+AND+soft skills)+AND+KEY(change management+AND+soft skills),0,0,0,1,0,0,0,0,0,1
+TITLE(change management+AND+soft skills)+AND+ABS(change management+AND+soft skills)+OR+KEY(change management+AND+soft skills),0,0,0,1,0,0,0,0,0,1,0
+TITLE(change management+AND+soft skills)+OR+ABS(change management+AND+soft skills)+AND+KEY(change management+AND+soft skills),0,0,1,1,1,0,1,0,0,1,0
+TITLE(change management+AND+soft skills)+OR+ABS(change management+AND+soft skills)+OR+KEY(change management+AND+soft skills),7,5,6,5,10,11,11,8,16,19,24
+TITLE(change management)+AND+ABS(change management)+AND+KEY(change management),172,195,183,216,209,226,243,276,300,297,304
+TITLE(change management)+AND+ABS(change management)+OR+KEY(change management),341,359,376,420,400,439,470,525,532,533,584
+TITLE(change management)+OR+ABS(change management)+AND+KEY(change management),2018,2298,2285,2269,2141,2386,2617,2814,3289,3358,3571
+TITLE(change management)+OR+ABS(change management)+OR+KEY(change management),15264,16684,17190,18851,19947,20774,22151,23956,26176,28108,29713

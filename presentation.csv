@@ -1,0 +1,9 @@
+query,result
+TITLE(change management+AND+soft skills)+AND+ABS(change management+AND+soft skills)+AND+KEY(change management+AND+soft skills),2
+TITLE(change management+AND+soft skills)+AND+ABS(change management+AND+soft skills)+OR+KEY(change management+AND+soft skills),2
+TITLE(change management+AND+soft skills)+OR+ABS(change management+AND+soft skills)+AND+KEY(change management+AND+soft skills),8
+TITLE(change management+AND+soft skills)+OR+ABS(change management+AND+soft skills)+OR+KEY(change management+AND+soft skills),164
+TITLE(change management)+AND+ABS(change management)+AND+KEY(change management),3344
+TITLE(change management)+AND+ABS(change management)+OR+KEY(change management),6676
+TITLE(change management)+OR+ABS(change management)+AND+KEY(change management),35482
+TITLE(change management)+OR+ABS(change management)+OR+KEY(change management),323088

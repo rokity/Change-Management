@@ -1,0 +1,73 @@
+query,result
+TITLE change management AND soft skills AND industry 4.0,0
+TITLE change management AND soft skills OR industry 4.0,0
+TITLE change management OR soft skills AND industry 4.0,0
+TITLE change management OR soft skills OR industry 4.0,4
+TITLE change management AND soft skills AND iot,0
+TITLE change management AND soft skills OR iot,2
+TITLE change management OR soft skills AND iot,0
+TITLE change management OR soft skills OR iot,30
+TITLE change management AND soft skills AND smart factory,0
+TITLE change management AND soft skills OR smart factory,0
+TITLE change management OR soft skills AND smart factory,0
+TITLE change management OR soft skills OR smart factory,0
+TITLE change management AND soft skills AND internet of things,0
+TITLE change management AND soft skills OR internet of things,0
+TITLE change management OR soft skills AND internet of things,0
+TITLE change management OR soft skills OR internet of things,1
+TITLE change management AND soft skills AND cyber phycal system,0
+TITLE change management AND soft skills OR cyber phycal system,0
+TITLE change management OR soft skills AND cyber phycal system,0
+TITLE change management OR soft skills OR cyber phycal system,0
+TITLE change management AND soft skills AND wireless sensor network,0
+TITLE change management AND soft skills OR wireless sensor network,0
+TITLE change management OR soft skills AND wireless sensor network,0
+TITLE change management OR soft skills OR wireless sensor network,0
+KEY change management AND soft skills AND industry 4.0,0
+KEY change management AND soft skills OR industry 4.0,0
+KEY change management OR soft skills AND industry 4.0,2
+KEY change management OR soft skills OR industry 4.0,42
+KEY change management AND soft skills AND iot,0
+KEY change management AND soft skills OR iot,7
+KEY change management OR soft skills AND iot,0
+KEY change management OR soft skills OR iot,568
+KEY change management AND soft skills AND smart factory,0
+KEY change management AND soft skills OR smart factory,0
+KEY change management OR soft skills AND smart factory,0
+KEY change management OR soft skills OR smart factory,4
+KEY change management AND soft skills AND internet of things,0
+KEY change management AND soft skills OR internet of things,0
+KEY change management OR soft skills AND internet of things,0
+KEY change management OR soft skills OR internet of things,156
+KEY change management AND soft skills AND cyber phycal system,0
+KEY change management AND soft skills OR cyber phycal system,0
+KEY change management OR soft skills AND cyber phycal system,0
+KEY change management OR soft skills OR cyber phycal system,0
+KEY change management AND soft skills AND wireless sensor network,0
+KEY change management AND soft skills OR wireless sensor network,0
+KEY change management OR soft skills AND wireless sensor network,0
+KEY change management OR soft skills OR wireless sensor network,89
+ABS change management AND soft skills AND industry 4.0,2
+ABS change management AND soft skills OR industry 4.0,4
+ABS change management OR soft skills AND industry 4.0,42
+ABS change management OR soft skills OR industry 4.0,385
+ABS change management AND soft skills AND iot,1
+ABS change management AND soft skills OR iot,124
+ABS change management OR soft skills AND iot,7
+ABS change management OR soft skills OR iot,6871
+ABS change management AND soft skills AND smart factory,1
+ABS change management AND soft skills OR smart factory,4
+ABS change management OR soft skills AND smart factory,6
+ABS change management OR soft skills OR smart factory,91
+ABS change management AND soft skills AND internet of things,1
+ABS change management AND soft skills OR internet of things,11
+ABS change management OR soft skills AND internet of things,17
+ABS change management OR soft skills OR internet of things,915
+ABS change management AND soft skills AND cyber phycal system,0
+ABS change management AND soft skills OR cyber phycal system,0
+ABS change management OR soft skills AND cyber phycal system,0
+ABS change management OR soft skills OR cyber phycal system,0
+ABS change management AND soft skills AND wireless sensor network,0
+ABS change management AND soft skills OR wireless sensor network,2
+ABS change management OR soft skills AND wireless sensor network,1
+ABS change management OR soft skills OR wireless sensor network,488

@@ -1,0 +1,9 @@
+query,filter1,filter2,filter3,logic1,logic2,result
+change management+AND+soft skills,TITLE,ABS,KEY,AND,AND,2
+change management+AND+soft skills,TITLE,ABS,KEY,AND,OR,2
+change management+AND+soft skills,TITLE,ABS,KEY,OR,AND,8
+change management+AND+soft skills,TITLE,ABS,KEY,OR,OR,164
+change management,TITLE,ABS,KEY,AND,AND,3344
+change management,TITLE,ABS,KEY,AND,OR,6676
+change management,TITLE,ABS,KEY,OR,AND,35482
+change management,TITLE,ABS,KEY,OR,OR,323088

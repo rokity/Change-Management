@@ -1,0 +1,23 @@
+{
+    "filter": [
+        "TITLE",
+        "KEY",
+        "ABS"
+    ],
+    "iot": [
+        "industry 4.0",
+        "iot",
+        "smart factory",
+        "internet of things",
+        "cyber phycal system",
+        "wireless sensor network"
+    ],
+    "logic1":[
+        "AND","OR"
+    ],
+    "logic2":[
+        "AND","OR"
+    ]
+
+    
+}

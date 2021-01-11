@@ -1,0 +1,45 @@
+query,result
+TITLE%28change management+AND+soft skills+AND+industry 4.0%29+AND+ABS%28change management+AND+soft skills+AND+industry 4.0%29+AND+KEY%28change management+AND+soft skills+AND+industry 4.0%29,0.0
+TITLE%28change management+AND+soft skills+AND+industry 4.0%29+AND+ABS%28change management+AND+soft skills+AND+industry 4.0%29+OR+KEY%28change management+AND+soft skills+AND+industry 4.0%29,0.0
+TITLE%28change management+AND+soft skills+AND+industry 4.0%29+OR+ABS%28change management+AND+soft skills+AND+industry 4.0%29+AND+KEY%28change management+AND+soft skills+AND+industry 4.0%29,0.0
+TITLE%28change management+AND+soft skills+AND+industry 4.0%29+OR+ABS%28change management+AND+soft skills+AND+industry 4.0%29+OR+KEY%28change management+AND+soft skills+AND+industry 4.0%29,2.0
+TITLE%28change management+AND+soft skills+AND+iot%29+AND+ABS%28change management+AND+soft skills+AND+iot%29+AND+KEY%28change management+AND+soft skills+AND+iot%29,0.0
+TITLE%28change management+AND+soft skills+AND+iot%29+AND+ABS%28change management+AND+soft skills+AND+iot%29+OR+KEY%28change management+AND+soft skills+AND+iot%29,0.0
+TITLE%28change management+AND+soft skills+AND+iot%29+OR+ABS%28change management+AND+soft skills+AND+iot%29+AND+KEY%28change management+AND+soft skills+AND+iot%29,0.0
+TITLE%28change management+AND+soft skills+AND+iot%29+OR+ABS%28change management+AND+soft skills+AND+iot%29+OR+KEY%28change management+AND+soft skills+AND+iot%29,1.0
+TITLE%28change management+AND+soft skills+AND+smart factory%29+AND+ABS%28change management+AND+soft skills+AND+smart factory%29+AND+KEY%28change management+AND+soft skills+AND+smart factory%29,0.0
+TITLE%28change management+AND+soft skills+AND+smart factory%29+AND+ABS%28change management+AND+soft skills+AND+smart factory%29+OR+KEY%28change management+AND+soft skills+AND+smart factory%29,0.0
+TITLE%28change management+AND+soft skills+AND+smart factory%29+OR+ABS%28change management+AND+soft skills+AND+smart factory%29+AND+KEY%28change management+AND+soft skills+AND+smart factory%29,0.0
+TITLE%28change management+AND+soft skills+AND+smart factory%29+OR+ABS%28change management+AND+soft skills+AND+smart factory%29+OR+KEY%28change management+AND+soft skills+AND+smart factory%29,1.0
+TITLE%28change management+AND+soft skills+AND+internet of things%29+AND+ABS%28change management+AND+soft skills+AND+internet of things%29+AND+KEY%28change management+AND+soft skills+AND+internet of things%29,0.0
+TITLE%28change management+AND+soft skills+AND+internet of things%29+AND+ABS%28change management+AND+soft skills+AND+internet of things%29+OR+KEY%28change management+AND+soft skills+AND+internet of things%29,0.0
+TITLE%28change management+AND+soft skills+AND+internet of things%29+OR+ABS%28change management+AND+soft skills+AND+internet of things%29+AND+KEY%28change management+AND+soft skills+AND+internet of things%29,0.0
+TITLE%28change management+AND+soft skills+AND+internet of things%29+OR+ABS%28change management+AND+soft skills+AND+internet of things%29+OR+KEY%28change management+AND+soft skills+AND+internet of things%29,1.0
+TITLE%28change management+AND+soft skills+AND+cyber phycal system%29+AND+ABS%28change management+AND+soft skills+AND+cyber phycal system%29+AND+KEY%28change management+AND+soft skills+AND+cyber phycal system%29,0.0
+TITLE%28change management+AND+soft skills+AND+cyber phycal system%29+AND+ABS%28change management+AND+soft skills+AND+cyber phycal system%29+OR+KEY%28change management+AND+soft skills+AND+cyber phycal system%29,0.0
+TITLE%28change management+AND+soft skills+AND+cyber phycal system%29+OR+ABS%28change management+AND+soft skills+AND+cyber phycal system%29+AND+KEY%28change management+AND+soft skills+AND+cyber phycal system%29,0.0
+TITLE%28change management+AND+soft skills+AND+cyber phycal system%29+OR+ABS%28change management+AND+soft skills+AND+cyber phycal system%29+OR+KEY%28change management+AND+soft skills+AND+cyber phycal system%29,0.0
+TITLE%28change management+AND+soft skills+AND+wireless sensor network%29+AND+ABS%28change management+AND+soft skills+AND+wireless sensor network%29+AND+KEY%28change management+AND+soft skills+AND+wireless sensor network%29,0.0
+TITLE%28change management+AND+soft skills+AND+wireless sensor network%29+AND+ABS%28change management+AND+soft skills+AND+wireless sensor network%29+OR+KEY%28change management+AND+soft skills+AND+wireless sensor network%29,0.0
+TITLE%28change management+AND+soft skills+AND+wireless sensor network%29+OR+ABS%28change management+AND+soft skills+AND+wireless sensor network%29+AND+KEY%28change management+AND+soft skills+AND+wireless sensor network%29,0.0
+TITLE%28change management+AND+soft skills+AND+wireless sensor network%29+OR+ABS%28change management+AND+soft skills+AND+wireless sensor network%29+OR+KEY%28change management+AND+soft skills+AND+wireless sensor network%29,0.0
+TITLE%28change management+AND+industry 4.0%29+AND+ABS%28change management+AND+industry 4.0%29+AND+KEY%28change management+AND+industry 4.0%29,0.0
+TITLE%28change management+AND+industry 4.0%29+AND+ABS%28change management+AND+industry 4.0%29+OR+KEY%28change management+AND+industry 4.0%29,2.0
+TITLE%28change management+AND+industry 4.0%29+OR+ABS%28change management+AND+industry 4.0%29+AND+KEY%28change management+AND+industry 4.0%29,13.0
+TITLE%28change management+AND+industry 4.0%29+OR+ABS%28change management+AND+industry 4.0%29+OR+KEY%28change management+AND+industry 4.0%29,365.0
+TITLE%28change management+AND+iot%29+AND+ABS%28change management+AND+iot%29+AND+KEY%28change management+AND+iot%29,2.0
+TITLE%28change management+AND+iot%29+AND+ABS%28change management+AND+iot%29+OR+KEY%28change management+AND+iot%29,2.0
+TITLE%28change management+AND+iot%29+OR+ABS%28change management+AND+iot%29+AND+KEY%28change management+AND+iot%29,40.0
+ABS%28change management+AND+iotTITLE%29+OR+KEY%28change management+AND+iotTITLE%29+nan+OR%28change management+AND+iotTITLE%29,0.0
+TITLE%28change management+AND+smart factory%29+AND+ABS%28change management+AND+smart factory%29+AND+KEY%28change management+AND+smart factory%29,0.0
+TITLE%28change management+AND+smart factory%29+AND+ABS%28change management+AND+smart factory%29+OR+KEY%28change management+AND+smart factory%29,0.0
+TITLE%28change management+AND+smart factory%29+OR+ABS%28change management+AND+smart factory%29+AND+KEY%28change management+AND+smart factory%29,1.0
+TITLE%28change management+AND+smart factory%29+OR+ABS%28change management+AND+smart factory%29+OR+KEY%28change management+AND+smart factory%29,72.0
+TITLE%28change management+AND+cyber phycal system%29+AND+ABS%28change management+AND+cyber phycal system%29+AND+KEY%28change management+AND+cyber phycal system%29,0.0
+TITLE%28change management+AND+cyber phycal system%29+AND+ABS%28change management+AND+cyber phycal system%29+OR+KEY%28change management+AND+cyber phycal system%29,0.0
+TITLE%28change management+AND+cyber phycal system%29+OR+ABS%28change management+AND+cyber phycal system%29+AND+KEY%28change management+AND+cyber phycal system%29,0.0
+TITLE%28change management+AND+cyber phycal system%29+OR+ABS%28change management+AND+cyber phycal system%29+OR+KEY%28change management+AND+cyber phycal system%29,0.0
+TITLE%28change management+AND+wireless sensor network%29+AND+ABS%28change management+AND+wireless sensor network%29+AND+KEY%28change management+AND+wireless sensor network%29,0.0
+TITLE%28change management+AND+wireless sensor network%29+AND+ABS%28change management+AND+wireless sensor network%29+OR+KEY%28change management+AND+wireless sensor network%29,0.0
+TITLE%28change management+AND+wireless sensor network%29+OR+ABS%28change management+AND+wireless sensor network%29+AND+KEY%28change management+AND+wireless sensor network%29,41.0
+TITLE%28change management+AND+wireless sensor network%29+OR+ABS%28change management+AND+wireless sensor network%29+OR+KEY%28change management+AND+wireless sensor network%29,514.0
